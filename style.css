@@ -1,0 +1,15 @@
+.name{
+	color:yellow;
+	background-color:cyan;
+	font-size: 45px;
+	text-align: center;
+}
+.shape{
+	color: yellow;
+	background-color: blue;
+	
+	font-size: 36px;
+}
+p{
+	border:groove 20px red;
+}
